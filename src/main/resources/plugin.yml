@@ -1,0 +1,4 @@
+name: TestKotlinPlugin
+main: net.antikkup.plugins.Main
+version: 1.0
+author: Antik Küp
